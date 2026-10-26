@@ -1,0 +1,2 @@
+-keep class com.neont.messenger.** { *; }
+-keep class com.google.firebase.** { *; }

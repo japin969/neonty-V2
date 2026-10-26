@@ -1,0 +1,7 @@
+{
+  "name": "Neont Messenger",
+  "description": "Telegram-style messenger with multi-message selection, multi-target forwarding, and offline-first JSON storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
